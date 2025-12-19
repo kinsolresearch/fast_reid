@@ -10,6 +10,7 @@ dependencies = [
    "yacs>=0.1.8",
    "scikit-learn>=1.5.1",
    "termcolor>=3.2.0",
+    "numpy<2",
 ]
 
 [tool.uv.sources]
