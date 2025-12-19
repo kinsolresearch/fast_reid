@@ -1,3 +1,7 @@
+This is a fork of the original fast-reid repo (https://github.com/JDAI-CV/fast-reid).  It has been modified to remove parts that aren't relevant for Kinsol's purposes, and to make it usable as an importable library.
+
+The following is the original README.md file from the base repo.
+
 <img src=".github/FastReID-Logo.png" width="300" >
 
 [![Gitter](https://badges.gitter.im/fast-reid/community.svg)](https://gitter.im/fast-reid/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
